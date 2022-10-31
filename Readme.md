@@ -39,7 +39,7 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 
 ## 🛠️ Projeto no ar
  
-* [Netlify](https://pagepokedex.netlify.app/)
+* [Netlify](https://pokedex-project2.netlify.app/)
  
 ## 🎁 Expressões de gratidão
 
